@@ -1,4 +1,4 @@
-# [armhf-docker-mosquitto](https://hub.docker.com/r/ericmick/armhf-mosquitto/)
+# [alpine-armhf-mosquitto](https://hub.docker.com/r/ericmick/armhf-mosquitto/)
 Docker file for Eclipse Mosquitto MQTT Broker on ARM
 
 ----------------------------------------
@@ -6,7 +6,7 @@ Docker file for Eclipse Mosquitto MQTT Broker on ARM
 * Distribution : [Alpine Linux](https://alpinelinux.org/)
 * Architecture : armhf
 * Base Image   : [armhf/alpine](https://hub.docker.com/r/armhf/alpine/)
-* Application  : [Mosquitto](https://github.com/ericontech/armhf-docker-mosquitto)
+* Application  : [Mosquitto](https://github.com/ericontech/alpine-armhf-mosquitto)
     - Eclipse Mosquitto MQTT broker on ARM architecture.
 
 
