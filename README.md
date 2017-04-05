@@ -1,8 +1,5 @@
-# armhf-docker-mosquitto
-Docker file for Eclipse Mosquitto MQTT Broker on ARM
-
 # [armhf-docker-mosquitto](https://hub.docker.com/r/ericmick/armhf-mosquitto/)
-
+Docker file for Eclipse Mosquitto MQTT Broker on ARM
 
 ----------------------------------------
 #### Description
